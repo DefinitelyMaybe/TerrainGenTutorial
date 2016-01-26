@@ -1,0 +1,13 @@
+root
+{
+	Textures
+	{
+//Dirt Types
+		DirtGrey
+		{
+			diffuse = "dirt_grey_diff.tga"
+			normal = "dirt_bump.tga"
+			scale = 8
+		}
+	}
+}

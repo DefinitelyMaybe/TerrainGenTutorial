@@ -1,0 +1,11 @@
+root
+{
+	Materials
+	{
+#Texture Types: Dirt
+		Dirt Grey
+		{
+			texture = "DirtGrey"
+		}
+	}
+}

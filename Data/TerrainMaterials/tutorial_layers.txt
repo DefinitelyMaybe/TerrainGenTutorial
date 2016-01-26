@@ -1,0 +1,17 @@
+root
+{
+	Layers
+	{
+		TutorialTest
+		{
+			Tin Ore = 10
+			Copper Ore = 15
+			Gold Ore = 20
+			Gravel = 25
+			Cliff Rock Light = 40
+			Cliff Rock Dark = 60
+			Rock = 500
+			Obsidian = 1000
+		}
+	}
+}

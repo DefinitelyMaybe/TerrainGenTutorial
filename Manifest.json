@@ -1,0 +1,39 @@
+{
+    "Name": "WorldGenTutorial",
+    "Version":
+    {
+		"Major": 0,
+		"Minor": 1,
+		"Revision": 0
+    },
+    "Summary": "WorldGenTutorial",
+    "Description": "WorldGenTutorial",
+	"TargetGame": {
+		"Name": "TUG",
+		"Version": {
+			"Major": 0,
+			"Minor": 0,
+			"Revision": 0
+		}
+	},
+	"Authors":
+	[
+		{
+			"GitUsername": "JohnyCilohokla",
+			"NkUsername": "JohnyCilohokla",
+			"Email": ""
+		}
+	],
+	"Script":
+	{
+		"File": "Scripts/WorldGenTutorial.lua",
+		"Class": "WorldGenTutorial"
+	},
+	"Dependencies":
+	[
+	],
+	"Categories":
+	[
+		"Generation"
+	]
+}

@@ -1,0 +1,10 @@
+Biomes
+{
+	TheTutorial
+	{
+		script = "TutorialTest.lua"
+		weight = 1
+		minSize = 1
+		maxSize = 1
+	}
+}
